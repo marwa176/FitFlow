@@ -1,0 +1,17 @@
+.welcome {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+}
+
+.welcome h1 {
+  margin: 0 0 1rem;
+  color: #166534;
+  font-size: 3rem;
+}
+
+.welcome p {
+  margin: 0;
+  color: #475569;
+  font-size: 1.125rem;
+}

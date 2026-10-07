@@ -1,0 +1,26 @@
+# Dependencies and generated output
+node_modules/
+dist/
+dist-ssr/
+coverage/
+*.tsbuildinfo
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+.aws/
+
+# Logs and caches
+*.log
+.npm/
+
+# Editors and operating system
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
